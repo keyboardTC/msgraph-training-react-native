@@ -1,5 +1,5 @@
 export const AuthConfig = {
-  appId: 'YOUR_APP_ID_HERE',
+  appId: '908d089e-85aa-488f-a928-a3b04cfde599',
   appScopes: [
     'openid',
     'offline_access',
